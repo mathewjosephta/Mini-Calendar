@@ -12,7 +12,7 @@ A simple mini calendar that displays the current day, date, month, and year usin
 
 ## Demo
 
-Check out the live demo of the Mini Calendar [here](#). (Replace `#` with your live demo link if available.)
+Check out the live demo of the Mini Calendar [here](https://mathewjosephta.github.io/Mini-Calendar/).
 
 ## Getting Started
 
